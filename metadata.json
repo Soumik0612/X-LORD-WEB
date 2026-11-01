@@ -1,0 +1,6 @@
+{
+  "name": "X LORD BOT MANAGEMENT",
+  "description": "Professional bot hosting and cloud container management platform with real-time dyno monitoring, template marketplace, and wallet management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
